@@ -74,3 +74,4 @@
 ||log.pinterest.com^
 ||analytics.pinterest.com^
 ||trk.pinterest.com^
+||pagead2.googleadservices.com^
