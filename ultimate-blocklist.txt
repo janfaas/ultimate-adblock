@@ -95,3 +95,4 @@
 ||webview.unityads.unity3d.com^
 ||config.unityads.unity3d.com^
 ||adserver.unityads.unity3d.com^
+||appmetrica.yandex.ru^
